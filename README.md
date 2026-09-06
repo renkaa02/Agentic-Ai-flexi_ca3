@@ -1,17 +1,21 @@
 ## Screenshots
 
 ### 1. Input Financial Parameters Form
-![Input Financial Parameters Form](<img width="463" height="331" alt="Screenshot 2026-09-03 211702" src="https://github.com/user-attachments/assets/7cba8cfa-643d-4b21-a2dc-31a314457f30" />
-)
+![Input Financial Parameters Form] 
+<img width="463" height="331" alt="Screenshot 2026-09-03 211702" src="https://github.com/user-attachments/assets/90f02ec3-eeeb-4024-8d61-44c0aa64c836" />
+
 
 ### 2. Detailed Metric Breakdown Against Optimal Benchmarks
-![Detailed Metric Breakdown](<img width="449" height="236" alt="Screenshot 2026-09-03 211742" src="https://github.com/user-attachments/assets/b86deddb-2dd9-43df-9ad4-52c43da5fdb9" />
-)
+![Detailed Metric Breakdown]
+<img width="449" height="236" alt="Screenshot 2026-09-03 211742" src="https://github.com/user-attachments/assets/5d7a0f79-b46b-45f8-bef9-7e1b52d02027" />
+
 
 ### 3. Forecasted Score Trajectory
-![Forecasted Score Trajectory](<img width="446" height="213" alt="Screenshot 2026-09-03 211731" src="https://github.com/user-attachments/assets/1ced809a-f983-40b0-8eb8-20bbde52e8c5" />
-)
+![Forecasted Score Trajectory]
+<img width="446" height="213" alt="Screenshot 2026-09-03 211731" src="https://github.com/user-attachments/assets/e5f488c4-d378-49be-9dd3-d432ea4074e3" />
+
 
 ### 4. Overall Assessment, Actionable Recommendations & Agent Execution Logs
-![Overall Assessment and Agent Logs](<img width="427" height="334" alt="Screenshot 2026-09-03 211720" src="https://github.com/user-attachments/assets/367b77c6-ea4b-46b9-9ac1-fcf59649d975" />
-)
+![Overall Assessment and Agent Logs]
+<img width="427" height="334" alt="Screenshot 2026-09-03 211720" src="https://github.com/user-attachments/assets/24543936-b990-4c06-9607-29e89bfc650a" />
+
