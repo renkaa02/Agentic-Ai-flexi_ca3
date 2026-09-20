@@ -19,3 +19,7 @@
 
 <img width="427" height="334" alt="Screenshot 2026-09-03 211720" src="https://github.com/user-attachments/assets/24543936-b990-4c06-9607-29e89bfc650a" />
 
+### 5. Ask the Agent — grounded conversational guidance based on the user's credit-score analysis.
+
+<img width="683" height="282" alt="Screenshot 2026-09-20 230457" src="https://github.com/user-attachments/assets/aca81af0-0054-4603-8ef9-65af7a060c2a" />
+
