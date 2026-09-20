@@ -208,5 +208,10 @@ with gr.Blocks(title="AI Credit Score Guidance Agent") as demo:
     gr.Markdown("Run an assessment above first, then ask follow-up questions — e.g. *\"How can I raise my score?\"* or *\"What about my inquiries?\"*")
     gr.ChatInterface(fn=agent.chat_reply)
  
-demo.launch(share=True, debug=True)
+import os
+
+demo.launch(
+    server_name="0.0.0.0",
+    server_port=int(os.environ.get("PORT", 10000))
+)
  
