@@ -1,6 +1,6 @@
 
 
-!pip install -q gradio pandas matplotlib numpy
+
  
 import gradio as gr
 import pandas as pd
